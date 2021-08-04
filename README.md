@@ -1,5 +1,9 @@
 "# dailyr.github.io" 
 
+https://dailyr.github.io/
+
+直接跳转网址访问
+
 
 " 测试了从index.html 跳转到 a.html 和 b.html 的链接上面"
 
