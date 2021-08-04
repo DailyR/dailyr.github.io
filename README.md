@@ -9,3 +9,6 @@ https://dailyr.github.io/
 
 
 " 测试了 a.html 是否可以调用static下面js和css样式"
+
+
+https://dailyr.github.io/a.html  可以调用static下面的js和css样式
